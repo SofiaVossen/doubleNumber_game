@@ -1,0 +1,24 @@
+form{
+    display:flex;
+    flex-direction: column;
+    width:50vw;
+    height:50vh;
+    text-align: center;
+    justify-content: space-between;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+}
+button{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+    width:140px;
+    margin-left: 25%;
+    cursor:pointer;
+}
+input{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+    width:140px;
+    margin-left:24%;
+}
